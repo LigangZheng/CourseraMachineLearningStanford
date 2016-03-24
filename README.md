@@ -11,4 +11,4 @@ MATLAB solutions to the assignments of Andrew Ng's Coursera Machine Learning cou
 
 ## Programming Exercise Three: Multi-class Classification and Neural Networks
 * [machine-learning-ex3/ex3/ex3.m] Logistic Regression for multi-class classification
-* [machine-learning-ex3/ex3/ex3_reg.m] Neural Networks for multi-class classification
+* [machine-learning-ex3/ex3/ex3_nn.m] Neural Networks for multi-class classification
