@@ -8,3 +8,7 @@ MATLAB solutions to the assignments of Andrew Ng's Coursera Machine Learning cou
 ## Programming Exercise Two: Logistic Regression
 * [machine-learning-ex2/ex2/ex2.m] Logistic Regression without regularization
 * [machine-learning-ex2/ex2/ex2_reg.m] Logistic Regression with regularization
+
+## Programming Exercise Three: Multi-class Classification and Neural Networks
+* [machine-learning-ex3/ex3/ex3.m] Logistic Regression for multi-class classification
+* [machine-learning-ex3/ex3/ex3_reg.m] Neural Networks for multi-class classification
