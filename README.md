@@ -12,3 +12,9 @@ MATLAB solutions to the assignments of Andrew Ng's Coursera Machine Learning cou
 ## Programming Exercise Three: Multi-class Classification and Neural Networks
 * [machine-learning-ex3/ex3/ex3.m] Logistic Regression for multi-class classification
 * [machine-learning-ex3/ex3/ex3_nn.m] Neural Networks for multi-class classification
+
+## Programming Exercise Four: Neural Networks Learning
+* [machine-learning-ex4/ex4/ex4.m] Neural Networks
+
+## Programming Exercise Five: Regularized Linear Regression and Bias vs variance
+* [machine-learning-ex5/ex5/ex5.m] Regularized Linear Regression, Bias vs variance and Polynomial Regression
