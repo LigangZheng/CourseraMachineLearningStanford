@@ -23,7 +23,7 @@ MATLAB solutions to the assignments of Andrew Ng's Coursera Machine Learning cou
 * [ex6.m] SVM and Gaussian Kernels
 * [ex6_spam.m] SVM for spam detection
  
-## Programming Exercise Seven: K-means Clustering and Pricipal Component Analysis
+## Programming Exercise Seven: K-means Clustering and Principal Component Analysis
 * [ex7.m] K-means Clustering
 * [ex7_pca.m] Pricipal Component Analysis
 
